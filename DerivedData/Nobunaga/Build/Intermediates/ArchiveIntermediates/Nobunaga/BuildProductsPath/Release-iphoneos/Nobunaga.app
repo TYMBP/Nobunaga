@@ -1,0 +1,1 @@
+/Users/TY/YamatoDev/Tapps/github/Nobunaga/DerivedData/Nobunaga/Build/Intermediates/ArchiveIntermediates/Nobunaga/InstallationBuildProductsLocation/Applications/Nobunaga.app
